@@ -27,3 +27,10 @@ touch $filename - used for creating a file
 - git reflog: shows everywhere HEAD has pointed (commits, resets, checkouts)
 - Reflog entries last about 90 days before being garbage collected
 - To recover: find the SHA in reflog, then git branch <name> <SHA>
+
+
+## Cherry-pick
+
+- git cherry-pick <SHA>: apply a specific commit to the current branch
+- Creates a new commit with the same changes but a different SHA
+- Use for hotfixes: fix on feature branch, cherry-pick to main
