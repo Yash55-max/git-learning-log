@@ -1,4 +1,4 @@
-# Conflict Practice
+# Conflict Practice Notes
 
 
 ## My Workflow Preferences
