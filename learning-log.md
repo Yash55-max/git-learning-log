@@ -15,3 +15,9 @@
 - Learn about rebasing and interactive rebase 
 - Explore GitHub Actions for automation 
 - Practice contributing to open source projects 
+
+## Next Steps
+- Learn about rebasing and interactive rebase
+- Learn about rebasing and interactive rebase
+- Explore GitHub Actions for automation
+- Practice contributing to open source projects
