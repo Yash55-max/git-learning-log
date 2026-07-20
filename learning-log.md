@@ -13,6 +13,7 @@
 
 ## Next Steps
 <<<<<<< HEAD
+<<<<<<< HEAD
 - Learn about rebasing and interactive rebase
 - Explore GitHub Actions for automation
 - Practice contributing to open source projects
@@ -30,3 +31,8 @@
 - Practice contributing to open source projects
 >>>>>>> 4241924 (Add remaining next steps)
 >>>>>>> b22bcef (Fixed merge conflicts)
+=======
+- Learn about rebasing and interactive rebase 
+- Explore GitHub Actions for automation 
+- Practice contributing to open source projects 
+>>>>>>> f32c036a649decf5dd23b52a71380883caec041d
