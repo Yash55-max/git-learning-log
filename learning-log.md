@@ -12,6 +12,21 @@
 - [Oh My Git!](https://ohmygit.org) - Interactive game to learn Git
 
 ## Next Steps
+<<<<<<< HEAD
 - Learn about rebasing and interactive rebase
 - Explore GitHub Actions for automation
 - Practice contributing to open source projects
+=======
+<<<<<<< HEAD
+- Learn about rebasing and interactive rebase 
+- Explore GitHub Actions for automation 
+- Practice contributing to open source projects 
+
+## Next Steps
+- Learn about rebasing and interactive rebase
+=======
+- Learn about rebasing and interactive rebase
+- Explore GitHub Actions for automation
+- Practice contributing to open source projects
+>>>>>>> 4241924 (Add remaining next steps)
+>>>>>>> b22bcef (Fixed merge conflicts)
