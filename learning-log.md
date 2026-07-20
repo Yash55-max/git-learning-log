@@ -30,6 +30,4 @@
 - Learn about rebasing and interactive rebase
 - Explore GitHub Actions for automation
 - Practice contributing to open source projects
->>>>>>> 4241924 (Add remaining next steps)
->>>>>>> b22bcef (Fixed merge conflicts)
->>>>>>> 0ab0432 (Fixed merge conflicts)
+- PR templates save time on every future pull request
